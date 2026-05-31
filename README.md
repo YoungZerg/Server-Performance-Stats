@@ -2,6 +2,11 @@
 
 A simple script to display core server metrics.
 
+## Project URL
+```bash
+https://roadmap.sh/projects/server-stats
+```
+
 ## Prerequisites
 
 - Any modern Linux distribution

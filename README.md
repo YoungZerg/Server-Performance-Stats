@@ -17,7 +17,25 @@ Download the script using any convenient method.
 
 ### Option 1: using curl
 
+```bash
+curl -O https://raw.githubusercontent.com/YoungZerg/Server-Performance-Stats/main/server-stats.sh
+chmod +x server-stats.sh
+./server-stats.sh
+```
+
 ### Option 2: using wget
 
-### Option 3: clone repo
+```bash
+wget https://raw.githubusercontent.com/YoungZerg/Server-Performance-Stats/main/server-stats.sh
+chmod +x server-stats.sh
+./server-stats.sh
+```
 
+### Option 3: clone the repository
+
+```bash
+git clone https://github.com/YoungZerg/Server-Performance-Stats.git
+cd Server-Performance-Stats
+chmod +x server-stats.sh
+./server-stats.sh
+```
